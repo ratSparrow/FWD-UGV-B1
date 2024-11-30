@@ -1,0 +1,192 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "category": "Electronics",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Great quality and smooth performance!"
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price."
+        }
+      ],
+      "stock": 120,
+      "brand": "LogiTech",
+      "warranty": "1 Year"
+    },
+    {
+      "id": 2,
+      "name": "Running Shoes",
+      "price": 49.99,
+      "category": "Sportswear",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Super comfortable and lightweight!"
+        },
+        {
+          "rating": 4.8,
+          "comment": "Perfect for long runs."
+        }
+      ],
+      "stock": 50,
+      "brand": "Nike",
+      "warranty": "6 Months"
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "price": 29.99,
+      "category": "Electronics",
+      "reviews": [
+        {
+          "rating": 4.7,
+          "comment": "Amazing sound quality and portability!"
+        },
+        {
+          "rating": 4.2,
+          "comment": "Battery life could be better."
+        }
+      ],
+      "stock": 75,
+      "brand": "JBL",
+      "warranty": "1 Year"
+    },
+    {
+      "id": 4,
+      "name": "Gaming Keyboard",
+      "price": 89.99,
+      "category": "Electronics",
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "Fantastic RGB lights and responsive keys!"
+        },
+        {
+          "rating": 4.5,
+          "comment": "Perfect for gaming enthusiasts."
+        }
+      ],
+      "stock": 30,
+      "brand": "Corsair",
+      "warranty": "2 Years"
+    },
+    {
+      "id": 5,
+      "name": "Yoga Mat",
+      "price": 15.99,
+      "category": "Fitness",
+      "reviews": [
+        {
+          "rating": 4.3,
+          "comment": "Good quality and non-slip surface."
+        },
+        {
+          "rating": 4,
+          "comment": "Decent for daily yoga practice."
+        }
+      ],
+      "stock": 100,
+      "brand": "Gaiam",
+      "warranty": "6 Months"
+    },
+    {
+      "id": 6,
+      "name": "Smartphone",
+      "price": 699.99,
+      "category": "Electronics",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "comment": "Fast performance and excellent camera."
+        },
+        {
+          "rating": 4.6,
+          "comment": "Battery lasts all day."
+        }
+      ],
+      "stock": 25,
+      "brand": "Samsung",
+      "warranty": "2 Years"
+    },
+    {
+      "id": 7,
+      "name": "Backpack",
+      "price": 39.99,
+      "category": "Accessories",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "comment": "Spacious and durable for everyday use."
+        },
+        {
+          "rating": 4,
+          "comment": "Comfortable straps, good for travel."
+        }
+      ],
+      "stock": 80,
+      "brand": "North Face",
+      "warranty": "1 Year"
+    },
+    {
+      "id": 8,
+      "name": "Coffee Maker",
+      "price": 89.99,
+      "category": "Home Appliances",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Brews coffee quickly and efficiently."
+        },
+        {
+          "rating": 4.2,
+          "comment": "Easy to clean and maintain."
+        }
+      ],
+      "stock": 40,
+      "brand": "Keurig",
+      "warranty": "1 Year"
+    },
+    {
+      "id": 9,
+      "name": "Electric Kettle",
+      "price": 25.99,
+      "category": "Home Appliances",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "comment": "Heats water quickly and efficiently."
+        },
+        {
+          "rating": 4.3,
+          "comment": "Compact and stylish design."
+        }
+      ],
+      "stock": 60,
+      "brand": "Hamilton Beach",
+      "warranty": "1 Year"
+    },
+    {
+      "id": 10,
+      "name": "Office Chair",
+      "price": 129.99,
+      "category": "Furniture",
+      "reviews": [
+        {
+          "rating": 4.7,
+          "comment": "Ergonomic and very comfortable."
+        },
+        {
+          "rating": 4.4,
+          "comment": "Good support for long hours of work."
+        }
+      ],
+      "stock": 20,
+      "brand": "Herman Miller",
+      "warranty": "5 Years"
+    }
+  ]
